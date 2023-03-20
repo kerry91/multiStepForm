@@ -13,11 +13,7 @@ ul{
 }
 
 li{
-    margin-bottom: 5%;
-}
-
-span{
-    color: white;
+    margin-bottom: 10%;
 }
 
 span:nth-child(1){
@@ -31,4 +27,5 @@ span:nth-child(1){
 span:nth-child(2){
     position: absolute;
     margin-left: 20px;
+    color: white;
 }
